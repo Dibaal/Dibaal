@@ -1,11 +1,11 @@
 ### Hi there 👋, I'm Dibaal
 
 After more than a decade in the oil and gas industry, I've taken the bold step to pursue my true passion in DevOps and Cloud Engineering. Excited to embark on this new journey, where I blend my rich industry experience with my love for innovative cloud technology!
-🌱 I’m expanding my knowledge in Cloud and DevOps.
-🤝🏻 I’m looking to collaborate with other content creators and developers.
-🥅 2024 Goals: build more projects and Contribute to Open Source projects and to learn new technologies.
-👐🏻 I'm looking for unlimited leaning opportunities.
-🤝🏻 I am passionate about my work and always eager to connect with other experts.
+*🌱 I’m expanding my knowledge in Cloud and DevOps.
+*🤝🏻 I’m looking to collaborate with other content creators and developers.
+*🥅 2024 Goals: build more projects and Contribute to Open Source projects and to learn new technologies.
+*👐🏻 I'm looking for unlimited leaning opportunities.
+*🤝🏻 I am passionate about my work and always eager to connect with other experts.
 
 Find out more about me & feel free to connect with me here:
 
