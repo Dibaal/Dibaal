@@ -4,7 +4,7 @@ After more than a decade in the oil and gas industry, I've taken the bold step t
 * 🌱 I’m expanding my knowledge in Cloud and DevOps.
 * 🤝🏻 I’m looking to collaborate with other content creators and developers.
 * 🥅 2024 Goals: build more projects and Contribute to Open Source projects and to learn new technologies.
-* 👐🏻 I'm looking for unlimited leaning opportunities.
+* 👐🏻 I'm looking for unlimited learning opportunities.
 * 🤝🏻 I am passionate about my work and always eager to connect with other experts.
 
 Find out more about me & feel free to connect with me here:
